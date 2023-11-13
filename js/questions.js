@@ -56,18 +56,18 @@ let questions = [
       "Crianças, jovens e adultos, todos viram e não disseram nada"
     ]
   },
-  // you can uncomment the below codes and make duplicate as more as you want to add question
+   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
   //   {
   //   numb: 6,
-  //   question: "Indique a única alternativa que contém aposto",
-  //   answer: "Aquilo exigia um esforço adicional, coisa que não queria fazer",
+  //   question: "Your Question is Here",
+  //   answer: "Correct answer of the question is here",
   //   options: [
-  //     "Aquilo exigia um esforço adicional, coisa que não queria fazer",
-  //     "A refeição, leve e saborosa, agradou aos convidados",
-  //     "Maria, que é a mais falante, não abriu a boca",
-  //     "Esforçada, a equipe conquistou um lugar no pódio"
+  //     "Option 1",
+  //     "option 2",
+  //     "option 3",
+  //     "option 4"
   //   ]
   // },
 ];
