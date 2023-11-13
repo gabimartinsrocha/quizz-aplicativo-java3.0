@@ -8,12 +8,12 @@
 }
 
 body{
-    background: rgb(205,92,92);
+    background: rgb(90, 0, 187);
 }
 
 ::selection{
-    color: F08080;
-    background:FA8072 ;
+    color: #fff;
+    background: #007bff;
 }
 
 .start_btn,
@@ -40,23 +40,23 @@ body{
 .start_btn button{
     font-size: 25px;
     font-weight: 500;
-    color:E9967A ;
+    color: #007bff;
     padding: 15px 30px;
     outline: none;
     border: none;
     border-radius: 5px;
-    background:FFA07A;
+    background: #fff;
     cursor: pointer;
     transition: 1s ease-in-out;
 }
 .start_btn button:hover{
     transform: scale(1.5);
-    color: rgb(220,20,60);
+    color: rgb(90, 0, 187);
 }
 
 .info_box{
     width: 540px;
-    background: B22222;
+    background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
@@ -87,7 +87,7 @@ body{
 
 .info_box .info-list .info span{
     font-weight: 600;
-    color: 8B0000;
+    color: #007bff;
 }
 .info_box .buttons{
     height: 60px;
@@ -141,8 +141,8 @@ body{
 }
 
 .quiz_box header .timer{
-    color: A52A2A;
-    background:800000;
+    color: #004085;
+    background: #cce5ff;
     border: 1px solid #b8daff;
     height: 45px;
     padding: 0 8px;
@@ -215,20 +215,20 @@ section .option_list .option:last-child{
 }
 
 section .option_list .option:hover{
-    color:FF6347;
-    background:FF4500;
+    color: #004085;
+    background: #cce5ff;
     border: 1px solid #b8daff;
 }
 
 section .option_list .option.correct{
-    color: FF7F50;
-    background: FF8C00;
+    color: #155724;
+    background: #d4edda;
     border: 1px solid #c3e6cb;
 }
 
 section .option_list .option.incorrect{
-    color:FFD700 ;
-    background: FFFF00;
+    color: #721c24;
+    background: #f8d7da;
     border: 1px solid #f5c6cb;
 }
 
@@ -248,14 +248,14 @@ section .option_list .option .icon{
     line-height: 24px;
 }
 .option_list .option .icon.tick{
-    color:FFFACD;
-    border-color: FAFAD2;
+    color: #23903c;
+    border-color: #23903c;
     background: #d4edda;
 }
 
 .option_list .option .icon.cross{
-    color:FFEFD5;
-    background: FFE4B5;
+    color: #a42834;
+    background: #f8d7da;
     border-color: #a42834;
 }
 
@@ -302,7 +302,7 @@ footer button{
 }
 
 footer button:hover{
-    background:DEB887;
+    background: #0263ca;
 }
 
 footer button.show{
@@ -328,7 +328,7 @@ footer button.show{
 
 .result_box .icon{
     font-size: 100px;
-    color:F4A460;
+    color: #007bff;
     margin-bottom: 10px;
 }
 
@@ -369,20 +369,20 @@ footer button.show{
 }
 
 .buttons button.restart{
-    color:8B4513;
-    background: A0522D;
+    color: #fff;
+    background: #007bff;
 }
 
 .buttons button.restart:hover{
-    background:DAA520;
+    background: #0263ca;
 }
 
 .buttons button.quit{
-    color: FFB6C1;
-    background: FF69B4;
+    color: #007bff;
+    background: #fff;
 }
 
 .buttons button.quit:hover{
-    color:FF1493;
-    background: C71585;
+    color: #fff;
+    background: #007bff;
 }
