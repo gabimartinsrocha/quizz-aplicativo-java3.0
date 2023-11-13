@@ -36,7 +36,7 @@ let questions = [
   },
   {
     numb: 4,
-    question: "Identifique o aposto especificativo na seguinte oração: "A tragédia Hamlet é uma das mais encenadas no mundo",
+    question: "Identifique o aposto especificativo na seguinte oração: A tragédia Hamlet é uma das mais encenadas no mundo",
     answer: "Hamlet",
     options: [
       "A tragédia",
