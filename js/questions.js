@@ -2,57 +2,58 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "Indique a alternativa em que o trecho destacado corresponde a uma oração subordinada adjetiva."
+    answer: "  Os professores que interagem motivam os alunos. ",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      " Os alunos ficarão motivados desde que as aulas sejam interativas.",
+      " Os alunos querem uma coisa: que as aulas sejam interativas. ",
+      " Os professores que interagem motivam os alunos.",
+      " Os alunos querem que as aulas sejam interativas."
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Indique qual das alternativas contém uma oração subordinada adverbial temporal.",
+   
+      answer: " Mal chegamos ao cinema, o filme começou. ",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "  Mal chegamos ao cinema, o filme começou.  ",
+      " É provável que a gente se atrase.",
+      " As pessoas que chegam atrasadas atrapalham os outros.",
+      "Já que estamos atrasados, assistiremos a próxima sessão."
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "Indique a alternativa que contém uma oração subordinada substantiva.",
+    answer: "A verdade é que somos super inteligentes!",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "Nós, que somos super inteligentes, estamos entendendo tudo",
+      "A verdade é que somos super inteligentes!",
+      "Nós, que estudamos muito, nos sentimos mais inteligentes.",
+      " Acho que nós somos mais inteligentes do que eles."
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
+    question: "Identifique o aposto especificativo na seguinte oração: "A tragédia Hamlet é uma das mais encenadas no mundo",
+    answer: " Hamlet",
     options: [
-      "12",
-      "11",
-      "14",
-      "13"
+      " A tragédia",
+      " é uma das mais encenadas",
+      " no mundo",
+      " Hamlet"
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "Assinale a alternativa que apresenta corretamente um aposto especificativo:",
+    answer: "Documentos, cartas e fotografias, tudo foi destruído pelo fogo.",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "Documentos, cartas e fotografias, tudo foi destruído pelo fogo.",
+      "Quero apenas duas coisas: saúde e paz",
+      " O aluno João deve comparecer ao ensaio amanhã.",
+      "Crianças, jovens e adultos, todos viram e não disseram nada."
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
@@ -60,13 +61,13 @@ let questions = [
 
   //   {
   //   numb: 6,
-  //   question: "Your Question is Here",
-  //   answer: "Correct answer of the question is here",
+  //   question: "Indique a única alternativa que contém aposto",
+  //   answer: "Aquilo exigia um esforço adicional, coisa que não queria fazer.",
   //   options: [
-  //     "Option 1",
-  //     "option 2",
-  //     "option 3",
-  //     "option 4"
+  //     "Aquilo exigia um esforço adicional, coisa que não queria fazer.",
+  //     "A refeição, leve e saborosa, agradou aos convidados",
+  //     "Maria, que é a mais falante, não abriu a boca.",
+  //     " Esforçada, a equipe conquistou um lugar no pódio."
   //   ]
   // },
 ];
